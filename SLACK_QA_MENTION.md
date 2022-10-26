@@ -1,17 +1,18 @@
 
 @QA_SLACK_USERNAME
 
-## VERSION
+*VERSION*
 Build #EXAMPLE_NUMBER
-ENVIRONMENT (Put an x in the boxes that apply) :
-* [ ] DEV
-* [ ] STAGE / QA
-* [ ] PROD
 
-## UPLOADED TO (Put an x in the boxes that apply) :
-* [ ] Testflight (for iOS apps)
-* [ ] Slack channel (for Android apk)
-* [ ] URL (for backend / web apps)
+*ENVIRONMENT (Leave one that apply) :*
+- `DEV`
+- `STAGE / QA`
+- `PROD`
 
-## TASKS
+*UPLOADED TO (Leave one (or two for Flutter apps) that apply) :*
+- `Testflight` (for iOS apps)
+- `Slack channel` (for Android apk)
+- `URL` (for backend / web apps)
+
+*TASKS*
 - list of JIRA tickets
