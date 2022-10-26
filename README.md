@@ -1,1 +1,5 @@
-# SHARED_GITHUB_SETUP
+# Общий репозиторий dev отдела SOLVEIT
+
+Содержит:
+- README template
+- Pull request template
