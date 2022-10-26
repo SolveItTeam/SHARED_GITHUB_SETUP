@@ -3,12 +3,12 @@
 
 ## VERSION
 Build #EXAMPLE_NUMBER
-ENVIRONMENT:
+ENVIRONMENT (Put an x in the boxes that apply) :
 * [ ] DEV
 * [ ] STAGE / QA
 * [ ] PROD
 
-## UPLOADED TO:
+## UPLOADED TO (Put an x in the boxes that apply) :
 * [ ] Testflight (for iOS apps)
 * [ ] Slack channel (for Android apk)
 * [ ] URL (for backend / web apps)
