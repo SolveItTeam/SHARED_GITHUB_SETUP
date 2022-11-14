@@ -14,3 +14,4 @@ What types of changes does your code introduce? Put an x in the boxes that apply
 Put an x in the boxes that apply. You can also fill these out after creating the PR. 
 * [ ] No new warnings are introduced
 * [ ] I have added sufficient amount of comments for reviewers to understand my code
+* [ ] I checked layout on different devices (for mobile and frontend devs)
