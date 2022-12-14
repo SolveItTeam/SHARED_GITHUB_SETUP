@@ -35,6 +35,12 @@ Put an x in the boxes that apply
 - [ ] 1 day
 - [ ] >1 day
 
+*Priority*:
+Put an x in the boxes that apply
+- [ ] Urgent
+- [ ] Medium
+- [ ] Normal
+
 *QA status*:
 Put an x in the boxes that apply
 - [ ] Full regression
