@@ -48,8 +48,3 @@ Instructions how to build and publish the new app version for every environment
 - [Fastlane iOS commands. IN PROGRESS]()
 - [Fastlane Android commands. NOT IMPLEMETED]()
 - [NODEJS / FRONT CI/CD. NOT IMPLEMETED]()
-
-***
-
-## Tech debt
-Links to document with tech debt problems
